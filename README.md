@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Martine Kayitesi</h1>
 <h3 align="center">A passionate frontend developer from Rwanda</h3>
+<p>I'm a developer and I have a degree in Information Technology (IT), proficient in React Js, Wordpress, HTML, CSS, JavaScript, and PHP. I have experience with content management systems and a well as strong problem-solving and analytical skills. </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
